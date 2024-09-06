@@ -1,2 +1,2 @@
-# Gaussian_World
+# Gaussian World
 We are collecting large scale gaussian splats
